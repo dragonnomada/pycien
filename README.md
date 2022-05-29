@@ -36,4 +36,4 @@ https://third-hell-101.notion.site/PyCien-Taller-de-Python-I-c694a416fffb446eb0a
 
 > **S04/T02** - Análisis de Textos
 
-
+https://third-hell-101.notion.site/PyCien-Taller-de-Python-II-f4738c22d1a4409884a82603e16bc370
