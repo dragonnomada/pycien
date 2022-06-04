@@ -32,8 +32,8 @@ https://colab.research.google.com/drive/1Q_tKoqIEclz2zli6ekX8Pnhhzl3MaoGs?usp=sh
 
 > **S03/T01** - Taller sobre Extracción y Visualización de Datos
 
-https://third-hell-101.notion.site/PyCien-Taller-de-Python-I-c694a416fffb446eb0a432cfd12fa1ab
+https://dragonnomada.notion.site/PyCien-Taller-de-Python-I-c694a416fffb446eb0a432cfd12fa1ab
 
 > **S04/T02** - Análisis de Textos
 
-https://third-hell-101.notion.site/PyCien-Taller-de-Python-II-f4738c22d1a4409884a82603e16bc370
+https://dragonnomada.notion.site/PyCien-Taller-de-Python-II-f4738c22d1a4409884a82603e16bc370
