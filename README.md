@@ -37,3 +37,7 @@ https://dragonnomada.notion.site/PyCien-Taller-de-Python-I-c694a416fffb446eb0a43
 > **S04/T02** - Análisis de Textos
 
 https://dragonnomada.notion.site/PyCien-Taller-de-Python-II-f4738c22d1a4409884a82603e16bc370
+
+> **S05** - Aprendizaje Automático
+
+https://colab.research.google.com/drive/1aXg4Y2E7KbWvxlTzF_xzI9Hhp003Guab?usp=sharing
