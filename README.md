@@ -41,3 +41,19 @@ https://dragonnomada.notion.site/PyCien-Taller-de-Python-II-f4738c22d1a4409884a8
 > **S05** - Aprendizaje Automático
 
 https://colab.research.google.com/drive/1aXg4Y2E7KbWvxlTzF_xzI9Hhp003Guab?usp=sharing
+
+> **S06** - Manual Técnico de Python Científico
+
+https://colab.research.google.com/drive/1vZuSqwPv0Y4BlpskMj9tJN__oTmoRTyL?usp=sharing
+
+> **S06** - Integral Numérica (Regla del trapecio)
+
+https://colab.research.google.com/drive/13_QLzwRuBykbY8Y0wU4IJU3_FBbejfx9?usp=sharing
+
+> **S06** - Método Newton
+
+https://colab.research.google.com/drive/18_6ZTFlLUHyBiuTewdEpI3s3NMjWZbUS?usp=sharing
+
+> **S06** - Clasificadores
+
+https://colab.research.google.com/drive/1SxvICVP9FJ_hvsLQgAJibLS5CPE0UM-_?usp=sharing
