@@ -2,6 +2,12 @@
 
 ---
 
+## NOTAS DEL CURSO
+
+https://dragonnomada.notion.site/Python-Cient-fico-29c4f30f81904240bb6578ec509e2453
+
+## RECURSOS ADICIONALES
+
 > **VIDEOS Y RECURSOS**
 
 https://drive.google.com/drive/folders/1MeUcgIfie0BIWkDjYbRAFYOlKKPG-dsN?usp=sharing
